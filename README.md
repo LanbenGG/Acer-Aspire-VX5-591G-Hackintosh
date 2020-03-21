@@ -18,7 +18,6 @@
 | 内置无线网卡 |      Qualcomm Atheros QCA61x4a       |
 |  外置网卡  |           腾达U12 USB无线网卡           |
 
-### 基本完美配置
 ## 驱动成功的硬件部分
 * Intel Core i5-7300HQ 2.5GHz CPU
 * Intel HD Graphics 630 核芯显卡
@@ -46,13 +45,15 @@
 ## 未测试部分
 * USB-C
 
-#### 1、根据大神[@chakid](https://github.com/chakid/Acer-VX15-Hackintosh)和[@net32](https://github.com/net32/VX5-591G)的EFI文件修改，基本完美驱动（除内置网卡的WI-FI功能以外）
+#### 1、镜像来源：[远景论坛](http://bbs.pcbeta.com/viewthread-1836586-1-1.html),搬运 [百度网盘](https://pan.baidu.com/s/1kMmmfiDuGbB1FK27UOsnZw) 提取码：j2kk，感谢大佬！
+
+#### 2、根据大神[@chakid](https://github.com/chakid/Acer-VX15-Hackintosh)和[@net32](https://github.com/net32/VX5-591G)的EFI文件修改，基本完美驱动（除内置网卡的WI-FI功能以外）
 ![01.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/01.png)
 ![02.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/02.png)
 ![03.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/03.png)
 ![04.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/04.png)
 
-#### 2、触摸板与很多人不同，我的设备是I2C HID的触摸板，所以我使用了[@alexandred](https://github.com/alexandred/VoodooI2C)大神的VoodooI2C驱动，目前基本可以支持所有手势，不过由于暗影骑士的触摸板质量不是很好，有些手势不能完美操作
+#### 3、触摸板与很多人不同，我的设备是I2C HID的触摸板，所以我使用了[@alexandred](https://github.com/alexandred/VoodooI2C)大神的VoodooI2C驱动，目前基本可以支持所有手势，不过由于暗影骑士的触摸板质量不是很好，有些手势不能完美操作
 ![touchpad01.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad01.png)
 ![touchpad02.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad02.png)
 ![touchpad03.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad03.png)
