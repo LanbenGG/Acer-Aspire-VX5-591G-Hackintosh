@@ -45,7 +45,7 @@
 ## 未测试部分
 * USB-C
 
-#### 1、镜像来源：[远景论坛](http://bbs.pcbeta.com/viewthread-1836586-1-1.html),搬运 [百度网盘](https://pan.baidu.com/s/1kMmmfiDuGbB1FK27UOsnZw) 提取码：j2kk，感谢大佬！
+#### 1、镜像来源：[远景论坛](http://bbs.pcbeta.com/viewthread-1836586-1-1.html),大佬的[百度网盘](https://pan.baidu.com/s/1kMmmfiDuGbB1FK27UOsnZw)链接 提取码：j2kk，个人搬运[百度网盘](https://pan.baidu.com/s/1fOuvAG9exDhwUFMkX2BPlg) 提取码: 1amx，感谢大佬！
 
 #### 2、根据大神[@chakid](https://github.com/chakid/Acer-VX15-Hackintosh)和[@net32](https://github.com/net32/VX5-591G)的EFI文件修改，基本完美驱动（除内置网卡的WI-FI功能以外）
 ![01.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/01.png)
