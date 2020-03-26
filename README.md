@@ -6,7 +6,7 @@
 |   规格   |               详细信息                |
 | :------: | :-----------------------------------: |
 | 电脑型号 |     宏碁 Acer 暗影骑士3 (VX5-591G)      |
-| 操作系统 |         macOS Catalina 10.15.3        |
+| 操作系统 |         macOS Catalina 10.15.4        |
 |  处理器  |      Intel(R) Core(TM) i5 7300HQ      |
 |   内存   |          16 GB DDR4 2400MHz           |
 |   硬盘   |    西部数据 WD BLUE 3D NAND固态硬盘      |
@@ -53,7 +53,7 @@
 ![03.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/03.png)
 ![04.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/04.png)
 
-#### 3、触摸板与很多人不同，我的设备是I2C HID的触摸板，所以我使用了[@alexandred](https://github.com/alexandred/VoodooI2C)大神的VoodooI2C驱动，目前基本可以支持所有手势，不过由于暗影骑士的触摸板质量不是很好，有些手势不能完美操作
+#### 3、触摸板与很多人不同，我的设备是I2C HID的触摸板，所以我使用了[@alexandred](https://github.com/alexandred/VoodooI2C)大神的VoodooI2C驱动，目前基本可以支持所有手势，不过由于暗影骑士的触摸板质量不是很好，有些手势不能完美操作 （⚠️使用此驱动需要删除系统里的AppleIntelLpssI2C.kext和AppleIntelLpssI2CController.kext这两个驱动）
 ![touchpad01.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad01.png)
 ![touchpad02.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad02.png)
 ![touchpad03.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad03.png)
