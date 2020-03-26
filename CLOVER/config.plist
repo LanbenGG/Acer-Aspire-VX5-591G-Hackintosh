@@ -194,7 +194,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>10</integer>
+		<integer>15</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
@@ -245,6 +245,8 @@
 	</array>
 	<key>GUI</key>
 	<dict>
+		<key>CustomIcons</key>
+		<false/>
 		<key>Hide</key>
 		<array>
 			<string>BOOTX64.EFI</string>
@@ -267,6 +269,8 @@
 			<key>Speed</key>
 			<integer>8</integer>
 		</dict>
+		<key>PlayAsync</key>
+		<true/>
 		<key>Scan</key>
 		<dict>
 			<key>Entries</key>
@@ -278,6 +282,8 @@
 			<key>Tool</key>
 			<false/>
 		</dict>
+		<key>ShowOptimus</key>
+		<false/>
 		<key>Theme</key>
 		<string>black_green</string>
 	</dict>
