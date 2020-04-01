@@ -59,3 +59,9 @@
 ![touchpad01.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad01.png)
 ![touchpad02.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad02.png)
 ![touchpad03.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad03.png)
+
+### 感谢
+* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader)
+* [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+* [Lilu](https://github.com/acidanthera/Lilu)
+* ......
