@@ -48,15 +48,15 @@ Clover folder based in: Acer Aspire VX15 VX5-591G
 #### 1、Mirror source：[PCbeta](http://bbs.pcbeta.com/viewthread-1836586-1-1.html), [BaiduNetdisk](https://pan.baidu.com/s/1kMmmfiDuGbB1FK27UOsnZw) Extraction code：j2kk，Personal transport [BaiduNetdisk](https://pan.baidu.com/s/1fOuvAG9exDhwUFMkX2BPlg) Extraction code: 1amx，Thanks for Developer！
 
 #### 2、According to [@chakid](https://github.com/chakid/Acer-VX15-Hackintosh) and [@net32](https://github.com/net32/VX5-591G)‘s EFI
-![01.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/01.png)
-![02.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/02.png)
-![03.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/03.png)
-![04.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/04.png)
+![EN01.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/EN01.png)
+![EN02.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/EN02.png)
+![EN03.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/EN03.png)
+![EN04.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/EN04.png)
 
 #### 3、My touchpad is different from others，My touchpad is I2C HID，So I use [@alexandred](https://github.com/alexandred/VoodooI2C)‘s VoodooI2C Drive，supported all gestures, （⚠️To use this driver, you need to delete the AppleIntelLpssI2C.kext and AppleIntelLpssI2CController.kext in S/L/E）
-![touchpad01.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad01.png)
-![touchpad02.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad02.png)
-![touchpad03.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/touchpad03.png)
+![ENtouchpad01.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/ENtouchpad01.png)
+![ENtouchpad02.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/ENtouchpad02.png)
+![ENtouchpad03.png](https://github.com/LanbenGG/Acer-Aspire-VX5-591G-Hackintosh/blob/master/Picture/ENtouchpad03.png)
 
 ### Thanks
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader)
