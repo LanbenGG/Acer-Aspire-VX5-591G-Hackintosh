@@ -1,6 +1,8 @@
 # Acer-Aspire-VX5-591G-Hackintosh
 宏碁初代暗影骑士3黑苹果CLOVER分享
 
+[English](README.md) | [中文](README-zh-CN.md)
+
 电脑配置
 
 |   规格   |               详细信息                |
